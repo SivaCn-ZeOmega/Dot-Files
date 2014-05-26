@@ -1,0 +1,2 @@
+# Set ignore case while CD
+set completion-ignore-case on
